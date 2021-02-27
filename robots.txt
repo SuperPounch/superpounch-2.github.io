@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://superpounch.github.io/superpounch-2.github.io/sitemap.xml
+Sitemap: http://lixiao.buzz/sitemap.xml

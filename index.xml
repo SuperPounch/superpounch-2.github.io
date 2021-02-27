@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李啸的博客</title>
-    <link>https://superpounch.github.io/superpounch-2.github.io/</link>
+    <link>http://lixiao.buzz/</link>
     <description>Recent content on 李啸的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 19 Feb 2020 17:19:53 +0800</lastBuildDate>
     
-        <atom:link href="https://superpounch.github.io/superpounch-2.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://lixiao.buzz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://superpounch.github.io/superpounch-2.github.io/about/</link>
+      <link>http://lixiao.buzz/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://superpounch.github.io/superpounch-2.github.io/about/</guid>
+      <guid>http://lixiao.buzz/about/</guid>
       
         <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>第一篇博客</title>
-      <link>https://superpounch.github.io/superpounch-2.github.io/post/myblog/</link>
+      <link>http://lixiao.buzz/post/myblog/</link>
       <pubDate>Wed, 19 Feb 2020 17:19:53 +0800</pubDate>
       
-      <guid>https://superpounch.github.io/superpounch-2.github.io/post/myblog/</guid>
+      <guid>http://lixiao.buzz/post/myblog/</guid>
       
         <description>&lt;h1 id=&#34;_我的博客_&#34;&gt;&lt;em&gt;我的博客&lt;/em&gt;&lt;/h1&gt;
 &lt;blockquote&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 李啸的博客</title>
-    <link>https://superpounch.github.io/superpounch-2.github.io/post/</link>
+    <link>http://lixiao.buzz/post/</link>
     <description>Recent content in Posts on 李啸的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Feb 2020 17:19:53 +0800</lastBuildDate><atom:link href="https://superpounch.github.io/superpounch-2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2020 17:19:53 +0800</lastBuildDate><atom:link href="http://lixiao.buzz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇博客</title>
-      <link>https://superpounch.github.io/superpounch-2.github.io/post/myblog/</link>
+      <link>http://lixiao.buzz/post/myblog/</link>
       <pubDate>Wed, 19 Feb 2020 17:19:53 +0800</pubDate>
       
-      <guid>https://superpounch.github.io/superpounch-2.github.io/post/myblog/</guid>
+      <guid>http://lixiao.buzz/post/myblog/</guid>
       <description>我的博客 通过 Hugo 创建的博客开通啦，希望写出好文章，无限进步！</description>
     </item>
     
